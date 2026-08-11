@@ -1,3 +1,5 @@
+This project has been superseded by kpi-sentinel, which merges this analysis into an automated ETL pipeline with a PostgreSQL warehouse and live Power BI dashboard.' avec un lien vers le nouveau repo.
+
 # sales-Dashboard
  Dashboard interactif de ventes avec Python et Plotly 
 # Dashboard interactif de ventes
